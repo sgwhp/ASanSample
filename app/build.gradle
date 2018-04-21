@@ -12,7 +12,7 @@ android {
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
         externalNativeBuild {
             cmake {
-                cppFlags "-fsanitize=address -fno-omit-frame-pointer"
+//                cppFlags "-fsanitize=address -fno-omit-frame-pointer"
             }
         }
     }
