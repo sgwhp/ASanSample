@@ -1,5 +1,7 @@
 # ASanSample
 A demo shows you how to run [AddressSanitizer](https://github.com/google/sanitizers/wiki/AddressSanitizer) on android using [wrap shell script](https://developer.android.com/ndk/guides/wrap-script.html).
+## build
+Select profiling from Build Variants and run.
 ## how to use
 Run this app on device with 8.1 or emulator with android O. Then you will get the log as bellow:
 
